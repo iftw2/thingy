@@ -4,7 +4,7 @@
 -- Made And Open Sourced By NotUgur 
 -- https://discord.gg/3n9BzZvn
 
-local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/UI-Interface/CustomFIeld/main/RayField.lua'))()
+local Rayfield = loadstring(game:HttpGet('https://raw.githubusaercontent.com/UI-Interface/CustomFIeld/main/RayField.lua'))()
 local AutoFarmEnabled = false
 local AutoStatsEnabled = false
 local AutoRebirthEnabled = false
